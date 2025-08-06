@@ -105,7 +105,7 @@ pub const RS_PUB_KEY: &str = "FaSMBzRYrX9ItJWhpiIiHnXVKXJqiPajyx+yp4IH+Tk=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
-pub const WS_RENDEZVOUS_PORT: i32 = 21118;
+pub const WS_RENDEZVOUS_PORT: i32 = 21114;
 pub const WS_RELAY_PORT: i32 = 21119;
 
 macro_rules! serde_field_string {
